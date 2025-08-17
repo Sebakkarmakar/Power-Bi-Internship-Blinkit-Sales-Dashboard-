@@ -2,11 +2,12 @@
 Blinkit Sales Analysis Report
 # 📊 Blinkit Sales Analysis Report
 
-### 🧑‍💻 Prepared by: [Your Name]  
+### 🧑‍💻 Prepared by: Sebak karmakar 
 🎓 Internship Program: Data Analytics / Business Intelligence  
 🏢 Company: Blinkit – Last Minute Delivery App  
 🛠️ Tools Used: Microsoft Excel, Power BI  
-📅 Submission Date: [Insert Date]
+📅 Submission Date: 17-06-2025 to 17-08-2025
+
 
 ---
 
